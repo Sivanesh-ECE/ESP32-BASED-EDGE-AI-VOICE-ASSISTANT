@@ -116,7 +116,7 @@ Speaker Output
 
 Sivanesh G
 B.Tech Electronics and Communication Engineering
-VIT Chennai
+SRM EASWARI ENGINEERING COLLEGE
 
 Passionate about Embedded Systems, IoT, Edge AI, Semiconductor Technology, and Hardware Innovation.
 
